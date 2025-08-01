@@ -1,4 +1,8 @@
 //List
+
+//undercase = key   (first_name)
+//camelcase firstNmae
+//sentence case = nama class (ProductCategory   Product)
 void main() {
   List ageList = [41, 42, 43, 44];
   List randomList = ["Ichwan", 42, 43, 44];
